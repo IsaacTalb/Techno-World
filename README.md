@@ -1,4 +1,4 @@
-# 📰 News Website with NewsAPI Integration  
+# 📰 Techno-World News Website with NewsAPI Integration  
 
 This is a dynamic and responsive news website that uses the **NewsAPI** to fetch and display the latest news headlines.  
 The backend is built using **Node.js** and **Express**, while the frontend uses **HTML**, **JavaScript**, and **Tailwind CSS** for a sleek and modern design.
@@ -17,8 +17,8 @@ The backend is built using **Node.js** and **Express**, while the frontend uses 
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/news-website.git
-cd news-website
+git clone https://github.com/IsaacTalb/Techno-World.git
+cd Techno-World
 ```
 
 ### 2. Install Dependencies
@@ -47,7 +47,7 @@ Visit the website at http://localhost:3000 .
 
 ## Project structure
 ```bash
-news-website/
+Techno-World/
 │
 ├── public/                # Frontend files (HTML, CSS)
 │   ├── index.html         # Main HTML page
